@@ -6,7 +6,7 @@ Gosto de código limpo, arquitetura bem pensada e aplicações que escalam sem v
 
 Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicações performáticas e organizadas.
 
-## - Principais Tecnologias
+## Principais Tecnologias
 
 #### Backend & Banco de Dados
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
@@ -18,6 +18,9 @@ Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicaç
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+![Automated Tests](https://img.shields.io/badge/-Automated%20Tests-000000?style=flat)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
+![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat)
 
 #### Arquitetura & DevOps
 ![REST](https://img.shields.io/badge/-REST-000000?style=flat)
@@ -38,7 +41,7 @@ Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicaç
 
 
 
-## - Contato
+## Contato
 
 **LinkedIn:** https://www.linkedin.com/in/oberdan-andrade/  
 **Email:** oberdandeveloper@gmail.com  
