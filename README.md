@@ -7,7 +7,7 @@ Gosto de código limpo, arquitetura bem pensada e aplicações que escalam sem v
 Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicações performáticas e organizadas.
 
 
-### 🛠 *Tecnologias e Ferramentas*
+*Tecnologias e Ferramentas*
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -24,7 +24,7 @@ Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicaç
 
 
 
-### 📫 *Meus contatos*
+*Meus contatos*
 - [LinkedIn](https://www.linkedin.com/in/oberdan-andrade/)  
 - [oberdandeveloper@gmail.com](mailto:oberdandeveloper@gmail.com)
 
