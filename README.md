@@ -23,12 +23,15 @@ Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicaç
 ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat)
 
 #### Arquitetura & DevOps
+![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
 ![REST](https://img.shields.io/badge/-REST-000000?style=flat)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-000000?style=flat)
 ![SOLID](https://img.shields.io/badge/-SOLID-000000?style=flat)
-![DDD](https://img.shields.io/badge/-DDD-000000?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
