@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Oberdan  
+## Olá, eu sou o Oberdan  
 
 Desenvolvedor Full Stack que curte transformar ideia em produto funcional.
 
@@ -6,7 +6,7 @@ Gosto de código limpo, arquitetura bem pensada e aplicações que escalam sem v
 
 Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicações performáticas e organizadas.
 
-## 🛠️ Principais Tecnologias
+## - Principais Tecnologias
 
 #### Backend & Banco de Dados
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
@@ -38,7 +38,7 @@ Hoje trabalho principalmente com ecossistema Typescript e .NET, criando aplicaç
 
 
 
-## 📫 Contato
+## - Contato
 
 **LinkedIn:** https://www.linkedin.com/in/oberdan-andrade/  
 **Email:** oberdandeveloper@gmail.com  
